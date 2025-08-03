@@ -8,7 +8,7 @@ import image6 from "../assets/image6.jpeg"
 import image7 from "../assets/image7.jpeg"
 import image3 from "../assets/authBg.png"
 import { LuImagePlus } from "react-icons/lu";
-import { userDataContext } from '../context/userContext'
+import { userDataContext } from '../context/UserContext'
 import { useNavigate } from 'react-router-dom'
 import { IoArrowBack } from "react-icons/io5";
 const Customize = () => {
